@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinnerTest</string>
+    <array name="carList">
+        <item>volvo</item>
+        <item>fiat</item>
+        <item>peugoet</item>
+        <item>citroen</item>
+    </array>
+</resources>
